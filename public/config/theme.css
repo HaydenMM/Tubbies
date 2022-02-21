@@ -7814,7 +7814,7 @@ textarea.form-control-lg {
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: transparent;
+  background-color: #dae7fB;
 }
 
 .bg-success {
