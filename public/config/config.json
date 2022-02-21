@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbFA78D11a527307f28415b7C973FA820dd0fA96b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbFA78D11a527307f28415b7C973FA820dd0fA96b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Candy Hearts",
+  "SYMBOL": "Candy Heart",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/candy-hearts-nft",
+  "SHOW_BACKGROUND": false
+}
