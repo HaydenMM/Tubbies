@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xbFA78D11a527307f28415b7C973FA820dd0fA96b",
-  "SCAN_LINK": "https://polygonscan.com/token/0xbFA78D11a527307f28415b7C973FA820dd0fA96b",
+  "CONTRACT_ADDRESS": "0x4fc11d681bA1B9C0Da6410844e46Fcc188F00E06",
+  "SCAN_LINK": "https://polygonscan.com/token/0x4fc11d681bA1B9C0Da6410844e46Fcc188F00E06",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "Candy Hearts",
   "SYMBOL": "Candy Heart",
-  "MAX_SUPPLY": 5555,
-  "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 0.5,
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/candy-hearts-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tubbies-nft",
   "SHOW_BACKGROUND": false
 }
