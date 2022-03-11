@@ -6,8 +6,8 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Candy Hearts",
-  "SYMBOL": "Candy Heart",
+  "NFT_NAME": "Tubbies NFT",
+  "SYMBOL": "Tubbie",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 1,
